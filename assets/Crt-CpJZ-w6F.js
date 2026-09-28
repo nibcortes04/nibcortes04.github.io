@@ -1,0 +1,1 @@
+import{j as s}from"./index-cjWO6mdz.js";function i({children:a,etiqueta:r,className:c=""}){return s.jsxs("div",{className:`crt ${c}`.trim(),children:[s.jsxs("div",{className:"crt__screen",children:[s.jsx("div",{className:"crt__glow","aria-hidden":"true"}),a]}),r&&s.jsx("span",{className:"crt__label",children:r})]})}export{i as C};
